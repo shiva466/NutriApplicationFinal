@@ -8,6 +8,7 @@ public class NutritionAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(NutritionAppApplication.class, args);
+		// branch1 comment
 	}
 
 }
